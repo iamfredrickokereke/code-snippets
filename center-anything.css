@@ -1,5 +1,5 @@
 .center{
-    text-align: center;
+    text-align: center !important; /* This can be applied for all */
     align-items: center;
     align-self: center;
     align-content: center;
